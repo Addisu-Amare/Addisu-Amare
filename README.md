@@ -20,27 +20,19 @@ Welcome to my GitHub profile! I'm passionate about programming, engineering, dat
 - Human Anatomy
 - Physiology
 
-## Projects
+## Repositorys
 
-Here are a few highlights of my projects:
+Here is  some of my repository:
 
-1. **Smart Room Temperature and Light Monitoring**
-   - Description: A project focused on monitoring room temperature and light levels to optimize energy usage and comfort.
-   - Repository: [Link to Project 1](link)
+1. # Deep learning  [https://github.com/Addisu-Amare/deep_learning_project]
 
-2. **Non-Invasive Glucometer**
-   - Description: Developing a non-invasive glucometer for blood glucose monitoring without the need for finger pricks.
-   - Repository: [Link to Project 2](link)
+2. # Machine learning [https://github.com/Addisu-Amare/HyperbolicEmbeddingsMLcourse]
 
-3. **Crack Detection Using Deep Learning Approach**
-   - Description: Utilizing deep learning techniques to detect cracks in various materials for structural health monitoring.
-   - Repository: [Link to Project 3](link)
+3. # Foundation of software engineering:[https://github.com/Addisu-Amare/fse4ai_team4_project]
 
-4. **Application of Singular Value Decomposition (SVD) in Imaging**
-   - Description: Investigating the use of SVD in imaging applications for noise reduction, compression, and feature extraction.
-   - Repository: [Link to Project 4](link)
+4. # Diffusion model:[https://github.com/Addisu-Amare/diffusion_model]
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
+Feel free to explore my repositories and reach out if you have any questions or want to collaborate!
 
 ## my website:[http://addisu-amare.github.io/tech/]
 
