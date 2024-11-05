@@ -22,15 +22,14 @@ Welcome to my GitHub profile! I'm passionate about programming, engineering, dat
 
 ## Repositorys
 
-Here is  some of my repository:
-Here’s a table format for your README to showcase your repositories:
+Here is  some of my repositories:
 
 | **Repository Name**                          | **Description**                       | **Link**                                                   |
 |----------------------------------------------|---------------------------------------|-----------------------------------------------------------|
-| Deep Learning                                | A project focused on deep learning techniques. | [GitHub Repository](https://github.com/Addisu-Amare/deep_learning_project) |
+| Deep Learning                                | A project focused on deep learning on Gan and diffusion model. | [GitHub Repository](https://github.com/Addisu-Amare/deep_learning_project) |
 | Machine Learning                             | Course project on hyperbolic embeddings in machine learning. | [GitHub Repository](https://github.com/Addisu-Amare/HyperbolicEmbeddingsMLcourse) |
-| Foundation of Software Engineering           | Team project covering software engineering principles. | [GitHub Repository](https://github.com/Addisu-Amare/fse4ai_team4_project) |
-| Diffusion Model                              | Implementation of diffusion models for various applications. | [GitHub Repository](https://github.com/Addisu-Amare/diffusion_model) |
+| Foundation of Software Engineering           | Team project foundation of software engineering. | [GitHub Repository](https://github.com/Addisu-Amare/fse4ai_team4_project) |
+| Diffusion Model                              | Implementation of simple stable diffusion model.  | [GitHub Repository](https://github.com/Addisu-Amare/diffusion_model) |
 
 Feel free to explore my repositories and reach out if you have any questions or want to collaborate!
 
