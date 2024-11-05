@@ -25,29 +25,29 @@ Welcome to my GitHub profile! I'm passionate about programming, engineering, dat
 Here is  some of my repositories:
 <table>
   <tr>
-    <th style="background-color: #f03c15; color: white;">Repository Name</th>
-    <th style="background-color: #f03c15; color: white;">Description</th>
-    <th style="background-color: #f03c15; color: white;">Link</th>
+    <th style="background-color: #ff0000; color: white;">Repository Name</th>
+    <th style="background-color: #ff0000; color: white;">Description</th>
+    <th style="background-color: #ff0000; color: white;">Link</th>
   </tr>
   <tr>
-    <td style="background-color: #c5f015;">Deep Learning</td>
-    <td style="background-color: #c5f015;">A project focused on deep learning on GAN and diffusion model.</td>
-    <td style="background-color: #c5f015;"><a href="https://github.com/Addisu-Amare/deep_learning_project">GitHub Repository</a></td>
+    <td style="background-color: #ffff00;">Deep Learning</td>
+    <td style="background-color: #ffff00;">A project focused on deep learning on GAN and diffusion model.</td>
+    <td style="background-color: #ffff00;"><a href="https://github.com/Addisu-Amare/deep_learning_project">GitHub Repository</a></td>
   </tr>
   <tr>
-    <td style="background-color: #1589F0; color: white;">Machine Learning</td>
-    <td style="background-color: #1589F0; color: white;">Course project on hyperbolic embeddings in machine learning.</td>
-    <td style="background-color: #1589F0; color: white;"><a href="https://github.com/Addisu-Amare/HyperbolicEmbeddingsMLcourse">GitHub Repository</a></td>
+    <td style="background-color: #ff0000; color: white;">Machine Learning</td>
+    <td style="background-color: #ff0000; color: white;">Course project on hyperbolic embeddings in machine learning.</td>
+    <td style="background-color: #ff0000; color: white;"><a href="https://github.com/Addisu-Amare/HyperbolicEmbeddingsMLcourse">GitHub Repository</a></td>
   </tr>
   <tr>
-    <td style="background-color: #82C26E;">Foundation of Software Engineering</td>
-    <td style="background-color: #82C26E;">Team project foundation of software engineering.</td>
-    <td style="background-color: #82C26E;"><a href="https://github.com/Addisu-Amare/fse4ai_team4_project">GitHub Repository</a></td>
+    <td style="background-color: #ffff00;">Foundation of Software Engineering</td>
+    <td style="background-color: #ffff00;">Team project foundation of software engineering.</td>
+    <td style="background-color: #ffff00;"><a href="https://github.com/Addisu-Amare/fse4ai_team4_project">GitHub Repository</a></td>
   </tr>
   <tr>
-    <td style="background-color: #D29922; color: white;">Diffusion Model</td>
-    <td style="background-color: #D29922; color: white;">Implementation of simple stable diffusion model.</td>
-    <td style="background-color: #D29922; color: white;"><a href="https://github.com/Addisu-Amare/diffusion_model">GitHub Repository</a></td>
+    <td style="background-color: #ff0000; color: white;">Diffusion Model</td>
+    <td style="background-color: #ff0000; color: white;">Implementation of simple stable diffusion model.</td>
+    <td style="background-color: #ff0000; color: white;"><a href="https://github.com/Addisu-Amare/diffusion_model">GitHub Repository</a></td>
   </tr>
 </table>
 
