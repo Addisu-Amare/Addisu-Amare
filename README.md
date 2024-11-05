@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about programming, engineering, dat
 - Human Anatomy
 - Physiology
 
-## Repositorys
+## Repository
 
 Here is  some of my repositories:
 
