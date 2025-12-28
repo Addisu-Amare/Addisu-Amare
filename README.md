@@ -48,6 +48,13 @@ Here is  some of my repositories:
     <td style="background-color: #ff0000; color: white;">Implementation of simple stable diffusion model.</td>
     <td style="background-color: #ff0000; color: white;"><a href="https://github.com/Addisu-Amare/diffusion_model">GitHub Repository</a></td>
   </tr>
+
+  <tr>
+    <td style="background-color: #ff0000; color: white;">Unet Model</td>
+    <td style="background-color: #ff0000; color: white;">implementing unet on pascal voc data set.</td>
+    <td style="background-color: #ff0000; color: white;"><a href="https://github.com/Addisu-Amare/semantic_segmantatioun_using_unet/blob/main/Zena_Addisu_homework.ipynb">GitHub Repository</a></td>
+    
+  </tr>
 </table>
 
 Feel free to explore my repositories and reach out if you have any questions or want to collaborate!
