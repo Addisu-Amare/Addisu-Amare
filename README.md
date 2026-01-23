@@ -19,14 +19,7 @@ Welcome to my GitHub profile! I'm passionate about programming, engineering, dat
 - Human Anatomy
 - Physiology
 
-
-
-# 📁 Projects
-
-# 📚 Projects & Repositories
-
-# 📚 Projects & Repositories
-
+# 📁 📚 Projects & Repositories
 ## 🤖 Machine Learning & Deep Learning Notebooks
 | Project | Description | Last Updated | Status |
 |---------|-------------|--------------|--------|
