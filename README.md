@@ -25,6 +25,8 @@ Welcome to my GitHub profile! I'm passionate about programming, engineering, dat
 
 # 📚 Projects & Repositories
 
+# 📚 Projects & Repositories
+
 ## 🤖 Machine Learning & Deep Learning Notebooks
 | Project | Description | Last Updated | Status |
 |---------|-------------|--------------|--------|
@@ -66,77 +68,32 @@ Welcome to my GitHub profile! I'm passionate about programming, engineering, dat
 
 ---
 
-## 🗂️ **Complete Repositories**
+### 🎨 **Deep Learning & Generative AI Course project  Repositories**
+| Repository | Description | Last Updated | Status |
+|------------|-------------|--------------|--------|
+| **[Deep Learning Project](https://github.com/Addisu-Amare/deep_learning_project)** | Comprehensive deep learning project with GAN and diffusion models | ![Updated](https://img.shields.io/github/last-commit/Addisu-Amare/deep_learning_project?label=Updated&color=blue&logo=clockify&style=flat-square) | ![Active](https://img.shields.io/badge/Status-Active-success) |
+| **[Diffusion Model](https://github.com/Addisu-Amare/diffusion_model)** | Implementation of simple stable diffusion model | ![Updated](https://img.shields.io/github/last-commit/Addisu-Amare/diffusion_model?label=Updated&color=blue&logo=clockify&style=flat-square) | ![Active](https://img.shields.io/badge/Status-Active-success) |
+| **[Semantic Segmentation with U-Net](https://github.com/Addisu-Amare/semantic_segmantatioun_using_unet/blob/main/Zena_Addisu_homework.ipynb)** | U-Net implementation on Pascal VOC dataset | ![Updated](https://img.shields.io/github/last-commit/Addisu-Amare/semantic_segmantatioun_using_unet?label=Updated&color=blue&logo=clockify&style=flat-square) | ![Active](https://img.shields.io/badge/Status-Active-success) |
 
-### Deep Learning & Generative AI Repositories
-<table>
-  <tr>
-    <th style="background-color: #ff0000; color: white;">Repository Name</th>
-    <th style="background-color: #ff0000; color: white;">Description</th>
-    <th style="background-color: #ff0000; color: white;">Last Updated</th>
-    <th style="background-color: #ff0000; color: white;">Link</th>
-  </tr>
-  <tr>
-    <td style="background-color: #ffff00;">Deep Learning Project</td>
-    <td style="background-color: #ffff00;">A project focused on deep learning on GAN and diffusion model.</td>
-    <td style="background-color: #ffff00;">![Updated](https://img.shields.io/github/last-commit/Addisu-Amare/deep_learning_project?label=Updated&color=blue&logo=clockify)</td>
-    <td style="background-color: #ffff00;"><a href="https://github.com/Addisu-Amare/deep_learning_project">GitHub Repository</a></td>
-  </tr>
-  <tr>
-    <td style="background-color: #ff0000; color: white;">Diffusion Model</td>
-    <td style="background-color: #ff0000; color: white;">Implementation of simple stable diffusion model.</td>
-    <td style="background-color: #ff0000; color: white;">![Updated](https://img.shields.io/github/last-commit/Addisu-Amare/diffusion_model?label=Updated&color=blue&logo=clockify)</td>
-    <td style="background-color: #ff0000; color: white;"><a href="https://github.com/Addisu-Amare/diffusion_model">GitHub Repository</a></td>
-  </tr>
-  <tr>
-    <td style="background-color: #ffff00;">U-Net Model</td>
-    <td style="background-color: #ffff00;">Implementing U-Net on Pascal VOC dataset for semantic segmentation.</td>
-    <td style="background-color: #ffff00;">![Updated](https://img.shields.io/github/last-commit/Addisu-Amare/semantic_segmantatioun_using_unet?label=Updated&color=blue&logo=clockify)</td>
-    <td style="background-color: #ffff00;"><a href="https://github.com/Addisu-Amare/semantic_segmantatioun_using_unet/blob/main/Zena_Addisu_homework.ipynb">GitHub Repository</a></td>
-  </tr>
-</table>
+### 📚 **Machine Learning Course Projects**
+| Repository | Description | Last Updated | Status |
+|------------|-------------|--------------|--------|
+| **[Machine Learning Course Project](https://github.com/Addisu-Amare/HyperbolicEmbeddingsMLcourse)** | Course project on hyperbolic embeddings in machine learning | ![Updated](https://img.shields.io/github/last-commit/Addisu-Amare/HyperbolicEmbeddingsMLcourse?label=Updated&color=blue&logo=clockify&style=flat-square) | ![Completed](https://img.shields.io/badge/Status-Completed-green) |
 
-### Machine Learning & Course Projects
-<table>
-  <tr>
-    <th style="background-color: #ff0000; color: white;">Repository Name</th>
-    <th style="background-color: #ff0000; color: white;">Description</th>
-    <th style="background-color: #ff0000; color: white;">Last Updated</th>
-    <th style="background-color: #ff0000; color: white;">Link</th>
-  </tr>
-  <tr>
-    <td style="background-color: #ffff00;">Machine Learning</td>
-    <td style="background-color: #ffff00;">Course project on hyperbolic embeddings in machine learning.</td>
-    <td style="background-color: #ffff00;">![Updated](https://img.shields.io/github/last-commit/Addisu-Amare/HyperbolicEmbeddingsMLcourse?label=Updated&color=blue&logo=clockify)</td>
-    <td style="background-color: #ffff00;"><a href="https://github.com/Addisu-Amare/HyperbolicEmbeddingsMLcourse">GitHub Repository</a></td>
-  </tr>
-</table>
-
-### Software Engineering Projects
-<table>
-  <tr>
-    <th style="background-color: #ff0000; color: white;">Repository Name</th>
-    <th style="background-color: #ff0000; color: white;">Description</th>
-    <th style="background-color: #ff0000; color: white;">Last Updated</th>
-    <th style="background-color: #ff0000; color: white;">Link</th>
-  </tr>
-  <tr>
-    <td style="background-color: #ffff00;">Foundation of Software Engineering</td>
-    <td style="background-color: #ffff00;">Team project for foundation of software engineering.</td>
-    <td style="background-color: #ffff00;">![Updated](https://img.shields.io/github/last-commit/Addisu-Amare/fse4ai_team4_project?label=Updated&color=blue&logo=clockify)</td>
-    <td style="background-color: #ffff00;"><a href="https://github.com/Addisu-Amare/fse4ai_team4_project">GitHub Repository</a></td>
-  </tr>
-</table>
+### ⚙️ **Software Engineering Projects**
+| Repository | Description | Last Updated | Status |
+|------------|-------------|--------------|--------|
+| **[FSE4AI Team Project](https://github.com/Addisu-Amare/fse4ai_team4_project)** | Foundation of Software Engineering for AI team project | ![Updated](https://img.shields.io/github/last-commit/Addisu-Amare/fse4ai_team4_project?label=Updated&color=blue&logo=clockify&style=flat-square) | ![Active](https://img.shields.io/badge/Status-Active-success) |
 
 ---
 
 ## 📊 **Project Statistics**
-
 ```markdown
 📈 **Portfolio Overview:**
 • Total Notebooks: 19
 • Complete Repositories: 5
-• Categories: 6 (ML/DL, CV, NLP, Specialized Architectures, Data Processing, Software Engineering)
+• Categories: 7 (ML/DL, CV, NLP, Specialized Architectures, Data Processing, Generative AI, Software Engineering)
+• Total Projects: 24
 • Last Overall Update: ![Overall Updated](https://img.shields.io/github/last-commit/Addisu-Amare/website_?label=Portfolio&logo=github&style=flat-square)
 ## Website:https://addisu-amare.github.io/website_/
 
