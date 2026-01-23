@@ -1,0 +1,14 @@
+name: Update Project Badges
+
+on:
+  push:
+    paths:
+      - 'projects/**'
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly update
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/check
