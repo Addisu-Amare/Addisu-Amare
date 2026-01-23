@@ -56,6 +56,7 @@ Here is  some of my repositories:
   </tr>
 </table>
 
+![Depfu](https://img.shields.io/depfu/Addisu-Amare/semantic_segmantatioun_using_unet/blob/main/Zena_Addisu_homework.ipynb)
 Feel free to explore my repositories and reach out if you have any questions or want to collaborate!
 ## Website:https://addisu-amare.github.io/website_/
 
