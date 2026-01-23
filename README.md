@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm passionate about programming, engineering, dat
 ## 👁️ Computer Vision Notebooks
 | Project | Description | Last Updated | Status |
 |---------|-------------|--------------|--------|
-| **[Convolutional Networks](https://github.com/Addisu-Amare/website_/blob/main/projects/convlution.ipynb)** | CNN architectures and operations | ![Updated](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/Addisu-Amare/website_/commits?path=projects/convlution.ipynb&per_page=1&query=$[0].commit.author.date&label=Updated&color=blue&logo=clockify&style=flat-square) | ![Active](https://img.shields.io/badge/Status-Active-success) |
+| **[Convolution](https://github.com/Addisu-Amare/website_/blob/main/projects/convlution.ipynb)** | Convolution perations | ![Updated](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/Addisu-Amare/website_/commits?path=projects/convlution.ipynb&per_page=1&query=$[0].commit.author.date&label=Updated&color=blue&logo=clockify&style=flat-square) | ![Active](https://img.shields.io/badge/Status-Active-success) |
 | **[Vision Transformer](https://github.com/Addisu-Amare/website_/blob/main/projects/vision_transformer.ipynb)** | Transformer architecture for images | ![Updated](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/Addisu-Amare/website_/commits?path=projects/vision_transformer.ipynb&per_page=1&query=$[0].commit.author.date&label=Updated&color=blue&logo=clockify&style=flat-square) | ![Active](https://img.shields.io/badge/Status-Active-success) |
 | **[Object Detection](https://github.com/Addisu-Amare/website_/blob/main/projects/ObjectDetection.ipynb)** | Detection models and techniques | ![Updated](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/Addisu-Amare/website_/commits?path=projects/ObjectDetection.ipynb&per_page=1&query=$[0].commit.author.date&label=Updated&color=blue&logo=clockify&style=flat-square) | ![Active](https://img.shields.io/badge/Status-Active-success) |
 | **[Semantic Segmentation](https://github.com/Addisu-Amare/website_/blob/main/projects/SemanticSegmentation_sol.ipynb)** | Pixel-level classification | ![Updated](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/Addisu-Amare/website_/commits?path=projects/SemanticSegmentation_sol.ipynb&per_page=1&query=$[0].commit.author.date&label=Updated&color=blue&logo=clockify&style=flat-square) | ![Active](https://img.shields.io/badge/Status-Active-success) |
@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm passionate about programming, engineering, dat
 | **[Graph Neural Network](https://github.com/Addisu-Amare/website_/blob/main/projects/Graph_neural_network'.ipynb)** | GNN for graph-structured data | ![Updated](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/Addisu-Amare/website_/commits?path=projects/Graph_neural_network'.ipynb&per_page=1&query=$[0].commit.author.date&label=Updated&color=blue&logo=clockify&style=flat-square) | ![Active](https://img.shields.io/badge/Status-Active-success) |
 | **[XAI for 3D CNN](https://github.com/Addisu-Amare/website_/blob/main/projects/XAI_3D_CNN.ipynb)** | Explainable AI for medical imaging | ![Updated](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/Addisu-Amare/website_/commits?path=projects/XAI_3D_CNN.ipynb&per_page=1&query=$[0].commit.author.date&label=Updated&color=blue&logo=clockify&style=flat-square) | ![Active](https://img.shields.io/badge/Status-Active-success) |
 
-## 📊 Data Processing & Evaluation Notebooks
+## 📊 Data Processing & Metrics
 | Project | Description | Last Updated | Status |
 |---------|-------------|--------------|--------|
 | **[Dimensionality Reduction](https://github.com/Addisu-Amare/website_/blob/main/projects/Dimensionality_reduction.ipynb)** | PCA, t-SNE, UMAP techniques | ![Updated](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/Addisu-Amare/website_/commits?path=projects/Dimensionality_reduction.ipynb&per_page=1&query=$[0].commit.author.date&label=Updated&color=blue&logo=clockify&style=flat-square) | ![Active](https://img.shields.io/badge/Status-Active-success) |
@@ -87,9 +87,8 @@ Welcome to my GitHub profile! I'm passionate about programming, engineering, dat
 • Complete Repositories: 5
 • Categories: 7 (ML/DL, CV, NLP, Specialized Architectures, Data Processing, Generative AI, Software Engineering)
 • Total Projects: 24
-• Last Overall Update: ![Overall Updated](https://img.shields.io/github/last-commit/Addisu-Amare/website_?label=Portfolio&logo=github&style=flat-square)
 ## Website:https://addisu-amare.github.io/website_/
 
-## https://linktr.ee/Addisu_Amare
+### https://linktr.ee/Addisu_Amare
 [https://orcid.org/0009-0008-8912-2077]
 
