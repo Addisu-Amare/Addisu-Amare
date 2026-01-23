@@ -56,6 +56,15 @@ Here is  some of my repositories:
   </tr>
 </table>
 
+# 📁 Projects
+
+| Project | Description | Last Updated | Status |
+|---------|-------------|--------------|--------|
+| **[Attention Mechanism Notebook](https://github.com/Addisu-Amare/website_/blob/main/projects/Attention_mechanism.ipynb)** | Implementation of attention mechanisms in deep learning | ![Last Updated](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/Addisu-Amare/website_/commits?path=projects/Attention_mechanism.ipynb&per_page=1&query=$[0].commit.author.date&label=Updated&color=blue&logo=clockify&style=flat-square) | ![Open](https://img.shields.io/badge/Status-Active-success) |
+
+
+
+
 ![Depfu](https://img.shields.io/depfu/Addisu-Amare/repo)
 Feel free to explore my repositories and reach out if you have any questions or want to collaborate!
 ## Website:https://addisu-amare.github.io/website_/
