@@ -1,11 +1,11 @@
 
 <h1 align="center">👋 Hi, I'm Addisu Amare</h1>
 <h3 align="center">
-  🔬 AI/ML Engineer | Biomedical Engineer | Precision Engineering for Biological Insight
+  🔬 AI/ML Engineer | Biomedical Engineer | 
 </h3>
 
 <p align="center">
-  <strong>Interdisciplinary Engineer (ECE & Biomedical, VIT '22).</strong> Driven by the conviction that <strong>every deliberate adjustment reveals new capability</strong>, I apply this philosophy at the intersection of AI, data science, and human physiology.
+  <strong>Interdisciplinary Engineer (ECE & Biomedical, VIT 'Class of 22).</strong> Driven by the conviction that <strong>every deliberate adjustment reveals new capability</strong>, I apply this philosophy at the intersection of AI, data science, and human physiology.
 </p>
 
 <p align="center">
@@ -43,7 +43,11 @@ I'm a passionate **AI/ML Engineer** focused on creating impactful, intelligent s
 ## 🧠 Skills & Technologies
 
 ### 🐍 Languages & Libraries
-
+![R](https://img.shields.io/badge/-R-3C5280?style=for-the-badge)
+![MATLB](https://img.shields.io/badge/-MATLAB-3C5280?style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-3C5280?style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-3C5280?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-3C5280?style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
