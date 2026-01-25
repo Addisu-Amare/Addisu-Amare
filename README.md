@@ -26,7 +26,7 @@ I'm a passionate **AI/ML Engineer** focused on creating impactful, intelligent s
 - 🗣️ **Natural Language Processing**
 - 👁️ **Computer Vision & Generative AI**
 - 🎯 **Model Optimization & Fine-Tuning**
-- 
+- 🎯 **Digital signal and image  Processing**
 🧠**Domain Knowledge**
 `Biomedical Engineering` `Human Anatomy & Physiology` `Medical Instrumentation`
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
