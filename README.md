@@ -108,11 +108,6 @@ I'm a passionate **AI/ML Engineer** focused on creating impactful, intelligent s
 
 ---
 
-## 📫 Let's Connect!
-
-📧 **Email**: [muqadasejaz3@gmail.com](mailto:0941813057estifanos@gmail.com) 
-🔗 **LinkedIn**: [linkedin.com/in/Addisu Amare](https://linkedin.com/in/Addisu Amare) 
-📊 **Kaggle**: [kaggle.com/Addisu Amare](https://kaggle.com/Addisu Amare)
 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=Addisu-Amare&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
