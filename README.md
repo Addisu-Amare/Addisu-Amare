@@ -103,14 +103,14 @@ I'm a passionate **AI/ML Engineer** focused on creating impactful, intelligent s
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=muqadasejaz&theme=react" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Addisu-Amare&theme=react" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📫 Let's Connect!
 
-📧 **Email**: [muqadasejaz3@gmail.com](mailto:0941813057estifanos@gmail.com) 
+📧 **Email**: [0941813057estifanos@gmail.com](mailto:0941813057estifanos@gmail.com) 
 🔗 **LinkedIn**: [linkedin.com/in/Addisu Amare](https://linkedin.com/in/Addisu Amare) 
 📊 **Kaggle**: [kaggle.com/Addisu Amare](https://kaggle.com/Addisu Amare)
 
