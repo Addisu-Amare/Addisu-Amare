@@ -59,7 +59,8 @@ I'm a passionate **AI/ML Engineer** focused on creating impactful, intelligent s
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=Scikitlearn&logoColor=white)
+![Manim](https://img.shields.io/badge/-Manim-F7931E?style=for-the-badge&logo=Manim&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
@@ -82,6 +83,7 @@ I'm a passionate **AI/ML Engineer** focused on creating impactful, intelligent s
 ### 🧰 Tools & Platforms
 
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Robo flow](https://img.shields.io/badge/-Robo%20flow-F9AB00?style=for-the-badge&logo=roboflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-FFCC00?style=for-the-badge)
