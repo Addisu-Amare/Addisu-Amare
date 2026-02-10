@@ -1,8 +1,9 @@
 
-<h1 align="center">👋 Hi, I'm Addisu Amare</h1>
-<h3 align="center">
-  🔬 AI/ML Engineer | Biomedical Engineer | 
-</h3>
+<div align="center"> 
+  
+![WELCOME MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=750&height=100&lines=👋+Hi,+I'm+Addisu+Amare+👨‍💻;🔬+AI/ML+Engineer+|+Biomedical+Engineer)
+  
+</div>
 
 <p align="center">
   <strong>Interdisciplinary Engineer (ECE & Biomedical, VIT 'Class of 22).</strong> Driven by the conviction that <strong>every deliberate adjustment reveals new capability</strong>, I apply this philosophy at the intersection of AI, data science, and human physiology.
